@@ -26,7 +26,6 @@ This is a quick reference to getting started with Rust.
 ### Notations
 
 ```
-<img width="762" alt="Screen Shot 2021-11-29 at 9 35 33 PM" src="https://user-images.githubusercontent.com/95258457/144323345-bcc464ef-b944-4a5f-ba2d-cec2b66da198.png">
 
 ```
 
